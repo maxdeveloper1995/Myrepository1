@@ -1,0 +1,126 @@
+body {
+font-size: 16px;
+background:rgb(156, 118, 118);
+padding: 0;
+margin: 0;
+
+}
+
+
+ .header {
+    
+     background-image: url("https://st3.depositphotos.com/1051435/18901/i/1600/depositphotos_189012502-stock-photo-square-collage-of-cats-of.jpg");
+background-repeat: no-repeat; 
+background-position: center;
+background-size: cover;
+height: 40vh;
+color: rgb(224, 6, 24);
+text-align: center;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+ }
+.header__title {
+font-size: 56px;
+line-height: 67px;
+margin-bottom: 30px;
+
+}
+
+.avtor{
+    background:rgb(53, 151, 15);
+   
+	padding-left: 450px;
+	margin: 0 auto;
+    
+    }
+    .post{
+        height: 200px;
+        width: 700px;
+		
+		margin: 0 auto;
+    }
+
+.kart{
+ height: 130px;
+ width: 1000px; ;
+ margin: 0 auto;
+	
+	margin-top: 100px;
+    }
+
+
+	.kart1{
+		height: 110px;
+		width: 1000px; ;
+		margin: 0 auto;
+		   
+		   }
+
+
+		   .kart2{
+			height: 110px;
+			width: 1000px; ;
+			margin: 0 auto;
+		    margin-top: 20px;
+			   }
+		
+			   
+.post1{
+	margin: 0 auto;
+	height: 50px;
+	width: 40;
+	
+	padding-left: 250px;
+	
+	
+}
+.container{
+float: right;
+border: 1px solid red;
+margin-top: 10px;
+margin-right: 300px;
+}
+
+.menu{
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+
+.menu li{
+	float: left;
+	display: block;
+	margin-right: 61px;
+	
+}
+
+.menu li a{
+	color: aqua;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 16px;
+}
+
+footer{
+	width: 100%;
+	height: 70px;
+	border: 1px solid red;
+	background: black;
+	margin: 0 auto;
+	margin-top: 20px;
+	text-align: center;
+	padding-top: 50px;
+}
+footer a{
+	color: red;
+	margin-left: 20px;
+}
+
+footer nav a:hover{
+	border-bottom: 1px solid white;
+}
+	
+
